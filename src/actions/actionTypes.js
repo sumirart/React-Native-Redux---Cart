@@ -1,0 +1,2 @@
+export const ADD_BELANJAAN = "ADD_BELANJAAN";
+export const TOGGLE_BELANJAAN = "TOGGLE_BELANJAAN";
